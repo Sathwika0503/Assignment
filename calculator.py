@@ -28,5 +28,6 @@ elif (op=='%'):
     print(n1,'%',n2,'=',n1%n2)
   else:
     print("We cannot divide a number by 0")
+
 else:
   print('Invalid choice')
