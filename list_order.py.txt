@@ -1,0 +1,9 @@
+list1=[1,233,55,243,11,6556]
+list1.sort()
+print('In ascending order')
+for i in list1:
+  print(i)
+list1.sort(reverse=True)
+print('In descending order')
+for i in list1:
+  print(i)
